@@ -4,6 +4,7 @@
 #include <array>
 #include <iostream>
 #include <vector>
+#include <string>
 
 
 TEST(ArrayRefConstructorTest, Default)
