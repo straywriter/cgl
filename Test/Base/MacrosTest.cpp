@@ -10,6 +10,7 @@ TEST(ArraySizeHelperTest, Example)
     float f[5];
 
 
+
 std::cout<<__cplusplus;
 
     EXPECT_EQ(sizeof(ArraySizeHelper(f)), 5);
