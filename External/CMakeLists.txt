@@ -1,5 +1,6 @@
 
-add_subdirectory(./googletest-release-1.10.0)
+add_subdirectory(./googletest)
+add_subdirectory(./rapidjson)
 
 
 # add_subdirectory(./fmt)
