@@ -7,3 +7,6 @@
 [submodule "External/rapidjson"]
 	path = External/rapidjson
 	url = https://github.com/straywriter/rapidjson.git
+[submodule "External/tinyxml2"]
+	path = External/tinyxml2
+	url = https://github.com/straywriter/tinyxml2.git
